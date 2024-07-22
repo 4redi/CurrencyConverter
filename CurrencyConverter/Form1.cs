@@ -58,9 +58,14 @@ namespace CurrencyConverter
                 }
 
                 catch(FormatException) {
-                    MessageBox.Show("Please enter a valid number for Albanian LEK.", "Invalid Input", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("The program only accepts numbers, do not enter strings/chars", "Invalid Input", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+            else
+            {
+                MessageBox.Show("Value cannot be empty, please put something", "Invalid", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
             }
+        }
         }
     }
