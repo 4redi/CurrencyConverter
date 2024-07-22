@@ -22,6 +22,6 @@ If you want to improve it, simply just clone and PR.
 
 # To do:
 
-- Get real currency data for other values
-- Add a dropdown
-- Style the app better (?)
+- [ ] Get real currency data for other values
+- [ ]  Add a dropdown
+- [X] Style the app better (?)
