@@ -1,5 +1,5 @@
 # : ̗̀➛ Currency Converter
-![banner](PICS\banner.png)
+![](PICS/banner.png)
 
 # -‘๑’- Project description
 Simple project build using C#, Winform and Guna framework. It is a simple currency converter used to convert different values.
